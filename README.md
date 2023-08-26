@@ -25,3 +25,4 @@ El proyecto contiene las funcionalidades básicas aprendidas en el semestre de l
 ![4](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/favoritosmarvel.png)
 ![5](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/registro.png)
 ![6](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/image.png)
+![7](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/voz.png)
