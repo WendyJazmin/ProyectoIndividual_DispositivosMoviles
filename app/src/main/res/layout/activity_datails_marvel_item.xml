@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- ImageView para el GIF de fondo -->
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/imgBackground"
+            android:layout_width="wrap_content"
+            android:layout_height="744dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/fondo2" />
+
+        <ImageView
+            android:id="@+id/imgMarvel"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_gravity="top|center"
+            android:layout_marginTop="45dp" />
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/comfortaa_variablefont_wght"
+            android:background="@color/black"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:gravity="top|center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtComic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/morado2"
+            android:textColor="@color/black"
+            android:layout_marginTop="350dp"
+            android:gravity="center"
+            android:textSize="25sp"
+            android:fontFamily="@font/coissantone_regular" />
+
+
+        <TextView
+            android:id="@+id/txtDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="50dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginTop="430dp"
+            android:layout_marginBottom="15dp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:fontFamily="@font/comfortaa_variablefont_wght" />
+
+        <!-- Añadir a Favoritos -->
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btnGuardar"
+            android:layout_width="62dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_marginTop="500dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="30dp"
+            android:src="@drawable/favorite_24"
+            app:fabSize="normal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:ignore="SpeakableTextPresentCheck"></com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+
+    </FrameLayout>
+</ScrollView>

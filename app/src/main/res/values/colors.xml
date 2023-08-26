@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="low_gray">#C62828</color>
+    <color name="background_dm">#1c2334</color>
+    <color name="fond_color_dm">#DCDDDD</color>
+    <color name="title_color_dm">#fdffff</color>
+    <color name="blue">#3F51B5</color>
+    <color name="naranja">#EF6C00</color>
+    <color name="text_bg">#D5D5D6</color>
+
+    <color name="text_buton_datos">#ff5f6b</color>
+    <color name="text_pregunta">#808B96</color>
+
+    <color name="rojo">#C62828</color>
+
+
+
+    <color name="red">#FF5F6B</color>
+    <color name="light_red">#FF0000</color>
+    <color name="dark_red">#960000</color>
+    <color name="light_grey">#979FC5</color>
+    <color name="light_blue">#00A2F5</color>
+    <color name="blue2">#23599B</color>
+    <color name="morado">#B286FF</color>
+    <color name="morado_oscuro">#FF673AB7</color>
+    <color name="purple">#FFBB86FC</color>
+    <color name="purple2">#FF6200EE</color>
+
+
+
+    <color name="rosa">#FBDCEA</color>
+    <color name="morado_pastel">#DBD9FF</color>
+    <color name="azul">#7E9AE6</color>
+    <color name="verde_azul">#82D3FF</color>
+    <color name="verde_azul2">#69B9FF</color>
+    <color name="verde_claro">#CFF5F4</color>
+    <color name="azul2">#587DAE</color>
+    <color name="morado2">#DCC8FF</color>
+    <color name="morado_claro">#C9A8CB</color>
+    <color name="morado_claro2">#BB9AF6</color>
+    <color name="celeste">#9ED8FF</color>
+
+    <color name="rojo_vino">#8C2B44</color>
+    <color name="rosa2">#F3A3CC</color>
+    <color name="rosa3">#FDD7E0</color>
+    <color name="rosa4">#EA708D</color>
+    <color name="rosa5">#CC6EAB</color>
+
+    <color name="celeste2">#FF9ED8FF</color>
+
+
+
+
+</resources>

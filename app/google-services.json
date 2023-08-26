@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911605948636",
+    "project_id": "practica-uce-d5c5d",
+    "storage_bucket": "practica-uce-d5c5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911605948636:android:9e8d7c9dd80ce414809419",
+        "android_client_info": {
+          "package_name": "com.example.dispositivosmoviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911605948636-hiaj2joinrhf57et7ib0ntao8bjcj60r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxkiyT5GtNByhiKpHgiqDCZATmwKMyu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911605948636-hiaj2joinrhf57et7ib0ntao8bjcj60r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

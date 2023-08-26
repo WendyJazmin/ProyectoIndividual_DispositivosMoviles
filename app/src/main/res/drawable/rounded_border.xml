@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <solid android:color="#CD3E63" /> <!-- Color de fondo del botón -->
+    <stroke android:color="@color/black"
+    android:width="2dp" /> <!-- Ancho del borde -->
+    <corners android:radius="24dp" /> <!-- Radio de esquinas para bordes redondeados -->
+</shape>
