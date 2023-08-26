@@ -17,3 +17,7 @@ El proyecto contiene las funcionalidades básicas aprendidas en el semestre de l
 - **Firebase:** Es una plataforma que permite el desarrollo de una aplicación hasta su analítica, la autenticación, el almacenamiento en la nube, las notificaciones push, entre otros.
 - **DataStore:** Proporciona una forma más segura y flexible de almacenar y administrar datos clave-valor en la aplicación, incluidos los datos que deben sobrevivir a cambios de configuración, procesos de actualización.
 - **Shimmer Layout:** Se utiliza para agregar un efecto visual atractivo y llamativo a las vistas en una aplicación móvil y otros eventos.
+
+
+##CAPTURAS
+![Pantalla Inicial](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/PaginaPrincipal.png)
