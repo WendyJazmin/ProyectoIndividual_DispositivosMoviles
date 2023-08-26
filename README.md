@@ -18,5 +18,5 @@ La aplicación contiene principalmente activities como: registrar y crear una cu
 *View Model: esta biblioteca permite almacenar y administrar los datos que deben sobrevivir a los cambios de configuración, como rotaciones de pantalla, sin tener que depender del ciclo de vida de la actividad o el fragmento.
 *Biometric: permitie la autenticación biométrica en aplicaciones móviles.
 *Firebase: es una plataforma que permite el desarrollo de una aplicación hasta su analítica, la autenticación, el almacenamiento en la nube, las notificaciones push, entre otros.
-*DataStore: Proporciona una forma más segura y flexible de almacenar y administrar datos clave-valor en la aplicación, incluidos los datos que deben sobrevivir a cambios de configuración, procesos de actualización *Shimmer layout: se utiliza para agregar un efecto visual atractivo y llamativo a las vistas en una aplicación móvil y otros eventos.
+*DataStore: Proporciona una forma más segura y flexible de almacenar y administrar datos clave-valor en la aplicación, incluidos los datos que deben sobrevivir a cambios de configuración, procesos de actualización *Shimmer layout: se utiliza para agregar un efecto visual atractivo y llamativo a las vistas en una aplicación móvil y otros eventos. 
 
