@@ -21,8 +21,8 @@ El proyecto contiene las funcionalidades básicas aprendidas en el semestre de l
 
 ##CAPTURAS
 ![Pantalla Inicial](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/PaginaPrincipal.png)
-![Pantalla Inicial](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/ListaMarvel.png)
-![Pantalla Inicial](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/BuscarPersonajes.png)
-![Pantalla Inicial](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/favoritosmarvel.png)
-![Pantalla Inicial](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/registro.png)
-![Pantalla Inicial](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/image.png)
+![2](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/ListaMarvel.png)
+![3](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/BuscarPersonajes.png)
+![4](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/favoritosmarvel.png)
+![5](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/registro.png)
+![6](https://github.com/WendyJazmin/ProyectoIndividual_DispositivosMoviles/blob/main/image.png)
